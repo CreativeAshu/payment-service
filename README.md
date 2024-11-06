@@ -57,5 +57,5 @@ curl -X POST "http://localhost:8080/payments" -H "Content-Type: application/json
 curl -X GET "http://localhost:8080/payments?minAmount=10&currencies=GBP,USD" -H "accept: application/json"
 ```
 
-#Contact:
+# Contact:
 For questions, please reach out to ashutosh.gupta.mca@gmail.com
